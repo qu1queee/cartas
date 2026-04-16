@@ -15,6 +15,7 @@ A personal flashcard knowledge base.
 | [Cloud](cards/Cloud/cloud.md) | Cloud computing concepts |
 | [German Language](cards/GermanLanguage/) | German vocabulary (B2, C1) |
 | [Git Internals](cards/GitInternals/git_internals.md) | Git internals and mechanics |
+| [Go Libraries](cards/GoLibraries/go_libraries.md) | Go library design idioms and best practices |
 | [IaC](cards/IaC/terraform.md) | Infrastructure as Code with Terraform |
 | [Kubernetes Network Security](cards/KubernetesNetworkSecurity/k8s_egress.md) | K8s network security and egress |
 | [Linux Fundamentals](cards/LinuxFundamentals/linux.md) | Linux fundamentals |
