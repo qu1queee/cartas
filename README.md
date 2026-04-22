@@ -11,6 +11,7 @@ A personal flashcard knowledge base.
 
 | Deck | Description |
 |------|-------------|
+| [AI Models](cards/AIModels/ai_models.md) | AI model landscape: Anthropic, Gemini, OpenAI, Meta, Mistral — capabilities, architecture, and key concepts |
 | [Books](cards/Books/) | Book notes and summaries |
 | [Cloud](cards/Cloud/cloud.md) | Cloud computing concepts |
 | [German Language](cards/GermanLanguage/) | German vocabulary (B2, C1) |
