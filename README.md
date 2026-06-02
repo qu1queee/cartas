@@ -47,6 +47,7 @@ The drill interface runs at `http://127.0.0.1:8000` and opens automatically in t
 
 | Deck | Description |
 |------|-------------|
+| [AI Infrastructure](cards/AIInfrastructure/ai_infrastructure.md) | GPU architecture, CUDA, distributed training (ZeRO, 3D parallelism), inference optimization (FlashAttention, KV cache, quantization), ML compilers, and cluster infrastructure |
 | [AI Models](cards/AIModels/ai_models.md) | AI model landscape: Anthropic, Gemini, OpenAI, Meta, Mistral — capabilities, architecture, and key concepts |
 | [Books](cards/Books/) | Book notes and summaries |
 | [Cloud](cards/Cloud/cloud.md) | Cloud computing concepts |
